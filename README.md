@@ -572,7 +572,7 @@ With these skills, you’re now equipped to use **JavaScript classes with inheri
 
 💾 **Not something to copy and paste** 💾
 
-**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-ajs-03-basic-classes/tree/solution) (link not shown).
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-ajs-03-classes-w-inheritance/tree/solution) (link not shown).
 
 ---
 © All rights reserved to ThriveDX
